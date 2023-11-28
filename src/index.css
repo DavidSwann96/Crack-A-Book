@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 2.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+.flex{display: flex;}
+.justify-center{justify-content: center;}
+.justify-between{justify-content: space-between;}
+.align-center{align-items: center;}

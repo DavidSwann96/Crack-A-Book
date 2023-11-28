@@ -1,0 +1,13 @@
+.foot-container{
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #aaa;
+    padding-bottom: 1.5rem;
+    background-color: green
+}
+
+.footer-link{
+    padding-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
