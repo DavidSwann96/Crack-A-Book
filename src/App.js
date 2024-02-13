@@ -1,8 +1,8 @@
 import React from "react";
 import {Routes, Route} from 'react-router-dom';
-import HomePage from "./pages/HomePage";
+import HomePage from "./pages/homepage/HomePage";
 import BooksPage from "./pages/bookspage/BooksPage";
-import BookDetailPage from "./pages/BookDetailsPage";
+import BookDetailPage from "./pages/bookdetailspage/BookDetailsPage";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 
