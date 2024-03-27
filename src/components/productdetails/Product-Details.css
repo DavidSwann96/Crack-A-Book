@@ -1,0 +1,22 @@
+.ProductDetails-section-container{
+    padding-top: 8rem;
+}
+.ProductDetails-flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+.ProductDetails-BookImg-Container, .ProductDetails-BookDetails-Container{
+    width: 50%;
+}
+.ProductDetails-BookImg-Container{
+    padding-left: 150px;
+}
+.ProductDetails-BookDetails-Container{
+    padding-right: 150px;
+}
+.ProductDetails-BookImg-Container img{
+    width: 300px;
+    height: 300px;
+}
+
+
